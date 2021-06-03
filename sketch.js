@@ -35,6 +35,7 @@ function setup(){
 
     bird = new Bird(100,100);
     console.log("hello")
+    console.log("lets c")
 
 }
 
